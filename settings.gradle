@@ -1,3 +1,4 @@
 rootProject.name='MyLogger'
 include ':app'
 include ':myloggerlib'
+include ':gps'
